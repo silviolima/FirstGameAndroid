@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidGridLayoutActivity!</string>
+    <string name="app_name">QUEM FAZ ESTE SOM ?</string>
+    <string name="tocar">Tocar</string>
+    <string name="carregar">Carregar</string>
+    <string name="_0">0</string>
+    <string name="placar">PLACAR</string>
+    <string name="parab_ns">Parabéns</string>
+
+</resources>
